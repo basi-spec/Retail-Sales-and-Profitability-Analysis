@@ -60,7 +60,7 @@ Users can interact with the dashboard using **Year and Region filters** to explo
 | File | Description |
 |---|---|
 | `Retail_Project.xlsx` | Complete Excel project, including datasets, analysis, forecasting, scenarios, and interactive dashboard |
-| `Dashboard_Preview.mp4` | Short demonstration of the interactive dashboard |
+| `Retail_Project Dashboard.png` | Short demonstration of the interactive dashboard |
 
 ## 🚀 How to Explore
 
